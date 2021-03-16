@@ -1,3 +1,3 @@
 # Depth-First-Search
 
-Implementation in Java
+Implementation of the algorithm in Java
